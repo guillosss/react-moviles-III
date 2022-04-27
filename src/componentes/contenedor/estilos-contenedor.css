@@ -1,0 +1,16 @@
+.paginacion{
+    display: flex;
+    justify-content: center;
+}
+.atras{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+
+}
+.adelante{
+    background-color: greenyellow;
+    color: white;
+    border-radius: 10px;
+    
+}
